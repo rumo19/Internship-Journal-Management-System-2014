@@ -1,0 +1,5 @@
+c:\users\rumo\documents\visual studio 2012\Projects\journal\journal\bin\journal.dll
+c:\users\rumo\documents\visual studio 2012\Projects\journal\journal\bin\journal.pdb
+c:\users\rumo\documents\visual studio 2012\Projects\journal\journal\obj\Debug\journal.dll
+c:\users\rumo\documents\visual studio 2012\Projects\journal\journal\obj\Debug\journal.pdb
+C:\Users\rumo\Documents\Visual Studio 2012\Projects\journal\journal\obj\Debug\journal.csprojResolveAssemblyReference.cache
